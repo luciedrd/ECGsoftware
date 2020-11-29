@@ -5,7 +5,7 @@ Réalisation avec Qt creator de l'interface graphique d'un électrocardiogramme 
 Pour lancer le programme : dans Qt ouvrir tous les documents .cpp et .h du dossier "audiorecorderDardeBensalah". Ensuite lancez "audiorecorder.cpp".
 
 Pour ce projet ma collègue ne parvenait pas à installer Qt creator sur son ordinateur.  
-Elle a donc réalisé le rapport et j'ai entièrement programmé ce projet.
+Elle a donc réalisé le rapport et j'ai développé le programme.
 
 Au début de ce projet nous avions des bases de travail :
   
