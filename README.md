@@ -19,9 +19,9 @@ Au début de ce projet nous avions des bases de travail :
  - xseriesiodevice : Le fichier .h définit le prototype des fonctions. Le fichier .cpp contient l’implémentation des fonctions pour calculer le maximum, le minimum et la moyenne du signal.
     Modifications apportées : création des fonctions getMin(), getMax() et getMoyenne() et modifications des fonctions  readData() et writeData().  
     
- - formpatient : J'ai créé formpatient.cpp et formpatient.h. Il contient les fonctions nécessaires à la création d’un formulaire pour chaque patient.
+ - formpatient : J'ai créé formpatient.cpp et formpatient.h. Il permet de créer un formulaire pour chaque patient à l'aide d'une nouvelle fenêtre.
     
  -  audiorecorder.cpp : Ce code affiche une fenêtre permettant à l’utilisateur de sélectionner l’entrée audio, le codec, le conteneur et la fréquence d’échantillonnage appropriés.
  Modifications apportées : les lignes 146 à 192 ont été ajoutées afin de faire évoluer la fenêtre en y ajoutant widget, xyseriesiodevice, audiolevel et fompatient.
  
- Les explications complémentaires sont dans le document : "audiorecorderDardeBensalah/Projet_DossierC++DardeBensalah.pdf"  
+ Les explications complémentaires sont dans le document : "audiorecorderDardeBensalah/Projet_DossierC++DardeBensalah.pdf".
